@@ -1,0 +1,70 @@
+Abstract
+
+Inversion severely impairs the recognition of greyscale faces and the ability see the stimulus as a face in two-tone Mooney images. We used functional magnetic resonance imaging to study the effect of face inversion on the human fusiform face area (FFA). MR signal intensity from the FFA was reduced when greyscale faces were presented upside-down, but this effect was small and inconsistent across subjects when subjects were required to attend to both upright and inverted faces. However when two-tone faces were inverted, the MR signal from the FFA was substantially reduced for all subjects. We conclude that (i) the FFA responds to faces per se, rather than to the low-level visual features present in faces, and (ii) inverted greyscale faces can strongly activate this face-specific mechanism.
+
+Introduction
+
+Evidence from a wide variety of sources suggests that the perception of faces may be `special' in two senses. First, the processes involved in face recognition may be qualitatively different from those involved in the recognition of other kinds of objects. This claim is supported by behavioural experiments showing that the disruption of recognition performance that results when a face is presented upside-down is considerably greater than the analogous inversion cost for the recognition of objects (Yin, 1969; see Valentine, 1988for a review; but also see Diamond and Carey, 1986). Second, neuropsychological double dissociations between face and object recognition suggest that these processes are subserved by different regions of the brain (e.g. Newcombe et al., 1994).
+
+Perhaps the most striking evidence for the specialness of face processing comes from the recently reported neurological patient CK (Moscovitch et al., 1997). Although severely impaired at a wide range of visual tasks including the recognition of words and objects, CK is absolutely normal at recognising upright faces. Further, CK exhibits a face inversion cost that is six times greater than that observed in normal subjects. Moscovitch et al. explain this result by arguing that the face specific mechanisms preserved in CK are unable to process inverted faces (see also Farah et al., 1995).
+
+In another line of evidence for the specialness of faces, several imaging studies (Ishai et al., 1997; Kanwisher et al., 1997a; McCarthy et al., 1997) have demonstrated a focal region in the fusiform gyrus called the fusiform face area or FFA (see Fig. 1) that responds in a highly selective fashion to faces, compared to a wide variety of other stimulus types. However, the evidence for the selectivity of the FFA is based on comparisons of the response to different stimulus types, so it remains logically possible that this area responds not to faces per se, but to some confounding low-level visual feature which is present in face stimuli.
+
+The present study measured fMRI responses in the FFA to upright and inverted faces in order to address two questions. First, does the FFA respond to faces per se, or to a confounding visual feature which tends to be present in faces? Second, is it true that inverted faces cannot engage face-specific mechanisms (Moscovitch et al., 1997)? If the FFA were found to respond only to upright faces (or to a much greater degree to upright than to inverted faces) then both questions could be answered affirmatively. This result would show that face-specific mechanisms are engaged only (or predominantly) by upright faces. And because the identical stimulus would be presented in upright and inverted conditions, any differential activation for the two cases would have to reflect face processing per se rather than differences in the low-level features present in the stimuli.
+
+However, there were reasons to suspect that the FFA might not show a face-inversion effect. Both single-unit recordings from face-selective neurons in macaque temporal cortex (Perrett et al., 1988) and scalp recordings from humans (Jeffreys, 1989) have revealed comparable response amplitudes to upright and inverted faces, but greater response latencies to inverted faces. Such response latency effects would be extremely difficult to detect with fMRI.
+
+The current study used both greyscale and two-tone Mooney (1957)faces to test two different kinds of face-inversion effect. Inversion of a greyscale face disrupts the ability to recognise the face, but not the ability to detect a face, that is, to see that a face is present. By contrast, inversion of a Mooney (1957)face disrupts face detection (George et al., 1997). Thus inversion effects for greyscale faces should reflect face recognition processes, whereas inversion effects for Mooney faces should reflect face detection processes.
+
+Section snippets
+
+Experiment 1: greyscale faces
+
+Each subject's FFA was localised functionally by finding the region of his or her mid-fusiform gyrus that responded more strongly to faces than to either objects or houses in an independent localiser scan as described previously (Kanwisher et al., 1997a; Wojciulik et al., 1998). Fig. 1 shows examples of the localised FFA for two subjects taken from axial and coronal slices on independent sessions. After individually localising each subject's FFA, we then tested the hypothesis that the MR signal 
+
+Experiment 2: Mooney faces
+
+In this experiment we presented upright and inverted two-tone Mooney faces3. Greyscale photos of faces and objects were also presented in the same scans to provide comparison values of maximal and minimal FFA responses, respectively. Methods were identical to those of Experiment 1 except as follows.
+
+General discussion
+
+These experiments demonstrate that inverted greyscale faces produce a strong FFA response, albeit somewhat weaker than the response to upright greyscale faces. However, inverted Mooney faces produce a considerably lower FFA response than upright Mooney faces. These results provide clear answers to the two questions posed above. First, the consistently lower response to inverted Mooney faces than to the identical images presented upright demonstrates that the FFA response cannot be explained in
+
+Acknowledgements
+This study was supported by NIMH Grant 56037 and a Human Frontiers grant to NK, AFOSR grants F49620-95-1-0036 and F49620-98-1-0022 to KN, and a NSERC postgraduate scholarship to FT. We thank Oren Weinrib, Damian Stanley, and Yuan-Sea Lee for research assistance, Morris Moscovitch and Russell Epstein for comments on the manuscript, and Bruce Rosen and many people at the MGH-NMR Center for technical assistance.
+
+References (17)
+
+M.J. Farah et al.
+The inverted inversion effect in prosopagnosia: evidence for mandatory, face-specific processing mechanism
+Vision Research
+(1995)
+D.I. Perrett et al.
+Specialized face processing and hemispheric asymmetry in man and monkeys: evidence from single unit and reaction time studies
+Behavioural Brain Research
+(1988)
+V.P. Clark et al.
+Selective attention to face identity and color studied with fMRI
+Human Brain Mapping
+(1996)
+R. Diamond et al.
+Why faces are and are not special: an effect of expertise
+Journal of Experimental Psychology: General
+(1986)
+N. George et al.
+Face and shape repetition effects in humans: a spatio-temporal ERP study
+NeuroReport
+(1997)
+E. Halgren et al.
+Location of fMRI responses to faces anterior to retinotopic cortex
+Neuroimage
+(1997)
+A. Ishai et al.
+fMRI reveals differential activation in the ventral object vision pathway during the perception of faces, houses, and chairs
+Neuroimage
+(1997)
+D.A. Jeffreys
+A face-responsive potential recorded from the human scalp
+Experimental Brain Research
+(1989)
+There are more references available in the full text version of this article.
