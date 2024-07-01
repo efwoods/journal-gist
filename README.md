@@ -1,8 +1,11 @@
 # journal-gist
 This project summarizes the key points of research papers using LLMs.
 
-## Purpose
+## Purpose:
 This saves time when searching research papers to retrieve the key points of the paper.
+
+## Caution:
+There is no validation for hallucination present in the responses. This is the cost of speed vs. accuracy.
 
 ## To-do:
 - [ ] retrieve an article using Arcas
@@ -28,8 +31,6 @@ The paper asks two main questions:
 1. Does the fusiform face area (FFA) respond specifically to faces themselves or to low-level visual features present in faces?
 2. Can inverted faces engage face-specific mechanisms, particularly in the FFA?
 
-Real Answer:
+Real Answer ([Credit: MIT 9.13 The Human Brain, Spring 2019; Instructor: Nancy Kanwisher](https://youtu.be/ba-HMvDn_vU?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP&t=4549)):
 ![image](/images/what-questions-are-being-asked-in-this-paper.png)
 
-### Note:
-There is no validation for hallucination present in the responses. This is the cost of speed vs. accuracy.
