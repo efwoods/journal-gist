@@ -24,11 +24,17 @@ def query_openai(messages: list) -> list:
     client = OpenAI()
 
     completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-3.5-turbo-1106",
         messages=messages
     )
 
     return completion
 
 if __name__ == "__main__":
-    pass
+    message = [
+            {"role": "system", "content":"You are a helpful assistant."},
+            {"role":"user", "content":"Hello!"}
+        ]
+
+    response = query_openai(message)
+    logging.debug(response)
